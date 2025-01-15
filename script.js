@@ -26,7 +26,7 @@ function operate(string) {
             }
         }
 
-        if(!operand1)
+        if(!operand1 && i != 0)
             return 'Error';
 
         if (operator === null) {

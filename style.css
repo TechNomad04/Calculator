@@ -1,0 +1,35 @@
+button{
+    background-color: black;
+    color: white;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border: solid;
+    border-color: blanchedalmond;
+    border-width: 5px;
+    margin: 3px;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.lr{
+    background-color: rgb(124, 27, 27);
+}
+
+.lr2{
+    background-color: rgb(16, 68, 0);
+}
+
+div{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.display{
+    color: black;
+    font-weight: bold;
+    font-size: 75px;
+    height: 100px;
+}
